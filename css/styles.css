@@ -134,7 +134,9 @@ Text Styles CSS
 .t-right{
   text-align: right;
 }
-
+.display-4{
+  font-size: 35px;
+}
 
 
 /*===========================================
@@ -506,4 +508,18 @@ Page Styles
     color: #999999;
     font-weight: 500;
     letter-spacing: 5px;
+}
+
+
+.mt-5 {
+  margin-top: 50px;
+}
+.btn {
+  border: 1px solid silver;
+  padding: 10px 30px;
+}
+
+.btn-primary{
+  background-color: #596afc;
+  color: #fff;
 }
